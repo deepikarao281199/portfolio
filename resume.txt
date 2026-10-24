@@ -1,0 +1,90 @@
+                           DEEPIKA KUBENDIRA RAO
+
++1 5712204035 | deepika.kubendirarao28@gmail.com| Arlington,VA | Open to relocate | LinkedIn | GitHub
+
+SUMMARY
+
+ 
+
+Software Engineer with 3+ years of experience designing and developing scalable backend systems in enterprise SaaS environments. Skilled in Java, Spring Boot, Jakarta EE , REST APIs, SQL, and microservices architecture, with hands-on expertise in CI/CD, automated testing, performance optimization, and AI assisted development within Agile SDLC.
+
+
+
+WORK EXPERIENCE
+
+                                                                                                                                                                                                                                                           
+
+Software Developer, Zoho Corporation, India								May 2021-Dec 2024
+
+Designed and developed backend services within the patch management module of ManageEngine Endpoint Central using Java, J2EE, Spring Boot, and REST APIs, securely orchestrating deployments across 25M+ endpoints and improving enterprise release reliability.
+
+Engineered a Java and SQL-driven self-service deployment portal that streamlined multi-environment patch releases, minimized manual configuration, and enhanced deployment speed and stability.
+
+Automated Microsoft Office patch lifecycle workflows, reducing background publishing time from 70 to 25 minutes and accelerating update rollout across 10K+ devices.
+
+Developed and optimized complex SQL queries using MySQL and PostgreSQL for Test & Approve, Manual, and APD modules, and implemented dynamic filtering and real-time patch tracking through the application layer using Java, JPA, and Servlets  reducing API latency by 390ms and improving dashboard performance under high concurrency.
+
+Spearheaded UI/UX revamps for multiple features in the module, implementing responsive interfaces using React.js, Angular and  JavaScript enhancing user experience and interface consistency
+
+Led production incident triage using Git, log analysis, and JVM debugging tools, resolving 95+ critical issues annually while sustaining 99.9% SLA adherence.
+
+Strengthened CI/CD quality gates with automated unit and performance testing (JUnit, JMeter, Jenkins) and AI-assisted refactoring (ChatGPT, GitHub Copilot), reducing regressions and boosting development throughput by 22%.
+
+Software Developer Intern, Zoho Corporation, India							Mar 2021-Apr 2021
+
+Developed a lightweight system monitoring tool using Java, tracking CPU, Disk, and Network metrics across 80+ internal machines and generating 500+ daily telemetry logs for performance analysis.
+
+Built SLA breach alert automation using Deluge Script and event triggers, enabling proactive notifications for 200+ service tickets monthly and improving internal support tracking efficiency.
+
+Led testing and deployment of monitoring workflows using Git and CI validation scripts, reducing rollback incidents by 30% and ensuring smooth internal releases.
+
+PROJECTS
+
+                                                                                                                                                             
+
+   Mind The Gap GitHub                            								Sep 2025- Dec 2025
+
+Developed an end-to-end analytics pipeline using Python, Pandas, NumPy, and scikit-learn to process 26,889 neighborhood records, engineering GTFS and OpenStreetMap features with PCA and K-Means to identify transit deserts; validated models via Random Forest and Neural Networks, achieving 99% accuracy.
+
+
+
+   Community Connect GitHub               									May 2025- Sep2025
+
+Built a scalable community engagement platform using Spring Boot, Spring MVC, Apache Kafka, and MySQL, designing RESTful services with Java and Jakarta EE to support concurrent users; implemented event-driven messaging for reliable notifications, reducing API response time by 280ms under load testing.
+
+Pharmassist Medicine Detector GitHub								  Oct 2020-Feb 2021 Developed Flutter and Firebase-based mobile application designed to assist elderly and visually impaired users with medication adherence. Implemented pattern recognition to identify medicine bottles and integrated TTS/STT features to deliver voice-guided reminders and medication details.
+
+
+
+EDUCATION
+
+                                                                                                                                                             
+
+George Washington University, Washington DC, MS in Computer Science						May 2026
+
+Sri Sairam Engineering College, India, Bachelor of Engineering, Computer Science  					May 2021
+
+
+
+TECHNICAL SKILLS
+
+Programming Languages: Java , C , C++, Python , Objective C , Swift, HTML, CSS , JavaScript
+
+Frameworks & Frontend: Spring Boot, Spring MVC, Spring Webflux, Jakarta EE (J2EE), RESTful APIs,React.js, Angular.js
+
+Databases: PostgreSQL, MySQL, Oracle, NoSQL, MongoDB
+
+Data & Machine Learning: Pandas, NumPy, scikit-learn, PCA, K-Means, Random Forest, Neural Networks, DBSCAN
+
+Event Streaming: Apache Kafka
+
+Testing & Quality Engineering: JUnit, JMeter, Unit & Performance Testing
+
+DevOps & CI/CD: Git, Jenkins, Maven, CI/CD Pipelines
+
+Cloud : AWS (Core Services), Docker, KubernetesSystems & Architecture: Distributed Systems, Microservices Architecture, Event-Driven Architecture.
+
+Tools & Productivity: GitHub Copilot, ChatGPT, IntelliJ, Deluge Script
+
+Core Strengths: DataStructures and Algorithms, System Design, API Development,SDLC Database Optimization,Production Support.
+
